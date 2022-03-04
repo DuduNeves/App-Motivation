@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="texto_Inicial">Let\'s get started?</string>
+    <string name="Digite_Seu_Nome">What is your name?</string>
+    <string name="texto_Salvar">Save</string>
+</resources>
